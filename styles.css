@@ -13,7 +13,29 @@ html {
 }
 
 @media only screen and (min-width: 1026px) {
-  #pic-2 {
+  #top-pic, #top-links {
     display: none;
   }
+}
+
+li {
+  padding: 7px;
+}
+
+i {
+  color: black;
+}
+
+i:hover {
+  color: rgb(129, 129, 129);
+}
+
+#top-pic > img {
+  max-width: 200px;
+  min-width: 100px;
+}
+
+#nav-pic > img {
+  max-width: 200px;
+  min-width: 100px;
 }
