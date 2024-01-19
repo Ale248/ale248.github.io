@@ -1,9 +1,5 @@
-* {
-  background-color: #C4DFDF !important;
-}
-
-html {
-  background-color: #C4DFDF !important;
+body {
+  background-color: #35383d !important;
 }
 
 @media only screen and (max-width: 1026px) {
@@ -23,7 +19,7 @@ li {
 }
 
 i {
-  color: black;
+  color: white;
 }
 
 i:hover {
